@@ -189,3 +189,5 @@ The modular workflow makes it straightforward to add new capabilities such as:
 ## License
 
 Released under the MIT License.
+
+[![MIT License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
